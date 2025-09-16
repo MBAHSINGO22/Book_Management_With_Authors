@@ -1,4 +1,4 @@
-# 📚 Book_Management_With_Authors_Java
+# 📚 Book Management
 
 Sistem Pengelolaan Buku dengan Pengarang di Java  
 Proyek Java yang mengimplementasikan aplikasi untuk menambahkan buku beserta pengarang, menampilkan data, menghitung jumlah buku per tahun, dan menemukan buku terlama/terbaru.
@@ -6,8 +6,6 @@ Proyek Java yang mengimplementasikan aplikasi untuk menambahkan buku beserta pen
 ---
 
 ## 📖 Deskripsi Proyek
-
-Proyek pembelajaran Java yang mengimplementasikan sistem katalog buku dengan dukungan pengarang ganda.  
 
 Proyek ini berfokus pada:
 - 📊 **Buku.java** → merepresentasikan buku dengan atribut kode buku, judul, tahun terbit, dan array pengarang.  
